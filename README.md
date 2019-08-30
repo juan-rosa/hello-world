@@ -1,5 +1,5 @@
 # hello-world
-firts test repo
+first test repo
 Learning GitHub
 
 First timer 
